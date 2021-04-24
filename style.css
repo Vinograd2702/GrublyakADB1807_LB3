@@ -1,0 +1,15 @@
+h1 {
+    color: blue;
+    background-color:yellow;
+    border: 1px solid black;
+}
+
+p {
+    color: red;
+}
+
+h2 {
+    color:black;
+    background-color: rgb(5, 236, 5);
+    border: 1px solid black;
+}
