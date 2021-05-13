@@ -1,0 +1,42 @@
+.All{
+    background-color: #67e66779;
+    border: 30px #BF7130; /* Чёрная рамка */
+    border-style: outset;
+    padding-left: 10px;
+    width: 700px;
+}
+h1{
+    margin: auto;
+    font-size: 250%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.block-name{
+    margin: auto;
+    font-size: 120%;
+    color: #BF7130;
+    text-shadow: 0 0 20px #6C8CD5;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
+}
+.PosButton{
+    font-size: 120%;
+    margin: auto;
+    position: fixed;
+    top: 70px;
+    left: 440px;
+}
+.picture{
+    margin: auto;
+    height: 200px;
+    width: 405px;
+}
+.MyText{
+    font-size: 150%;
+    width: 400px;
+    background: #6C8CD5; /* Цвет фона */
+    border: 5px solid #BF7130; /* Чёрная рамка */
+    border-radius: 20px; /* Радиус скругления */
+}
+.MyText:hover{
+    color:red;
+}
